@@ -27,7 +27,7 @@
 
 | 🐛 汇报 Bug | 💡 功能建议 | 📋 模组列表 | 💬 玩家社区 | 📜 服务器规则 |
 |:-----------:|:-----------:|:-----------:|:-----------:|:------------:|
-| [Issues](../../issues/new?template=bug_report.md) | [Discussions](../../discussions/new?category=ideas) | [查看模组](#-模组介绍) | [加入 QQ 群 / Discord](#-社区与联系) | [阅读规则](#-服务器须知) |
+| [Issues](../../issues/new?template=bug_report.md) | [Discussions](../../discussions/new?category=ideas) | [查看模组](#-模组介绍) | 🐧：540586541 | [阅读规则](#-服务器须知) |
 
 </div>
 
